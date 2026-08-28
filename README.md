@@ -39,11 +39,22 @@ Analizar datos históricos de ventas de videojuegos para identificar plataformas
 - Análisis de clasificaciones ESRB por región
 - Pruebas de hipótesis
 
+### Evolución de ventas de las principales plataformas
+
+![Evolución de ventas de las principales plataformas](images/platform_sales_evolution.png)
+  
+
 ## Principales resultados
 
 - PS4 y Xbox One se encontraron entre las plataformas con mayor actividad comercial durante 2013–2016.
 - Las calificaciones de los críticos presentaron una correlación positiva moderada con las ventas globales (`r = 0.407`), mientras que las calificaciones de los usuarios mostraron una correlación prácticamente nula (`r = -0.032`).
 - Platform presentó la mayor mediana de ventas por juego con 0.27 millones de unidades, seguido de Shooter con 0.24 y Sports con 0.22 millones.
+
+### Media y mediana de ventas por género
+
+![Media y mediana de ventas globales por género](images/genre_mean_vs_median_sales.png)
+La diferencia entre la media y la mediana en todos los géneros refleja distribuciones sesgadas por títulos con ventas excepcionalmente altas. Platform y Shooter presentan las mayores ventas típicas por juego.
+
 - Se identificaron diferencias importantes entre los mercados de Norteamérica, Europa y Japón.
 - Las pruebas estadísticas encontraron diferencias significativas entre las calificaciones promedio de usuarios de Xbox One y PC, mientras que no se encontraron diferencias estadísticamente significativas entre Action y Sports con un nivel de significancia del 5 %.
 
